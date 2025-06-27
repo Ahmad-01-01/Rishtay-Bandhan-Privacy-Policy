@@ -51,3 +51,31 @@ Users can request data removal by contacting our support team.
 7. Policy Updates
 
 We may update this Privacy Policy periodically. Continued use of our services implies acceptance of the latest policy.
+
+8. Terms of Use & Community Guidelines
+User Agreement
+By using the Rishtay Bandhan app, you agree to comply with our terms, including our strict zero-tolerance policy for objectionable content or abusive users.
+
+Prohibited Conduct:
+
+No offensive, pornographic, or violent material.
+No harassment, hate speech, threats, or bullying.
+No spam or attempts to solicit payments outside the app.
+Content Moderation:
+
+We use automated systems & human moderators to filter, review, and remove objectionable content.
+Users can report inappropriate profiles, messages, or photos via in-app "Report" buttons.
+Users can block other users to prevent any further contact.
+Response to Reports:
+
+We review and act on all harmful content reports within 24 hours, immediately removing content and/or ejecting offending users if necessary.
+Account Termination:
+
+Accounts that violate these terms may be suspended or terminated without notice.
+Contact & Complaints:
+
+To report abuse or request account deletion: email [rishtabandhan01@gmail.com] 
+For more details, read our [full Terms of Use/EULA](TERMS.md).
+
+9. Updates to Community Policies
+We may update these terms and community guidelines as needed. Continued use of the app indicates acceptance of our latest rules.
