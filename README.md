@@ -1,81 +1,84 @@
-# Rishtay-Bandhan-Privacy-Policy
+# Rishtay Bandhan Privacy Policy
 
-Privacy Policy
+## 1. Introduction
+Your privacy is very important to us. This Privacy Policy explains how we collect, use, and protect your personal information when you use Rishtay Bandhan.
 
-1. Introduction
-Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal data.
+## 2. Information We Collect
 
-2. Information We Collect
+- Personal details such as name, age, gender, location (see 2.1), and contact information.
+- Profile details, including preferences and interests for matchmaking.
+- Communication history with other users.
 
-Personal details such as name, age, gender, location, and contact information.
+### 2.1 Location Data
 
-Profile details, including preferences and interests for matchmaking.
+- **Why we collect it:**  
+  Rishtay Bandhan requests your device location (with your permission) for the purpose of displaying the distance between you and potential matches, and to improve the relevance of match suggestions.
+- **How it’s used:**  
+  Your location data is used **only**:
+  - To show how far matches are from you.
+  - To filter matches nearby if you choose.
+- **How it’s stored:**  
+  Location information is securely stored and is **never used for continuous tracking**, nor sold or shared with advertisers.
+- **Your control:**  
+  You can deny location access or withdraw permission anytime. The app will remain usable, but certain location-based features will be unavailable.
 
-Communication history with other users.
+## 3. How We Use Your Information
 
+- To create, personalize, and maintain your matchmaking profile.
+- To provide you with personalized matchmaking services, including suggested matches and displaying distances.
+- To communicate updates, proposals, and offers.
+- To improve our platform’s services and user experience.
 
-3. How We Use Your Information
+## 4. Data Security
 
-To create and maintain your matchmaking profile.
+- We implement strict security measures to protect user data.
+- Sensitive data, including your location, is never shared publicly or with third parties without your explicit consent.
 
-To provide personalized matchmaking services.
+## 5. Sharing of Information
 
-To communicate updates, proposals, and offers.
+- We do not sell or rent your data.
+- Certain profile details (such as age, preferences, or distance) may be visible to potential matches with your consent.
+- Legal authorities may access user data if required by law.
 
-To improve our platform’s services and user experience.
+## 6. User Rights
 
+- You may edit or delete your profile at any time.
+- You may request a full data removal or withdrawal of location permission by contacting our support team.
 
-4. Data Security
+## 7. Policy Updates
 
-We implement strict security measures to protect user data.
+We may update this Privacy Policy periodically. Continued use of our services implies acceptance of the latest version.
 
-Sensitive data is not shared publicly or with third parties without user consent.
+## 8. Terms of Use & Community Guidelines
 
+### User Agreement
 
-5. Sharing of Information
+By using the Rishtay Bandhan app, you agree to comply with our terms, including a strict zero-tolerance policy for objectionable content or abusive behavior.
 
-We do not sell or rent user data.
+### Prohibited Conduct
 
-Certain profile details may be shared with potential matches with user consent.
+- No offensive, pornographic, or violent material.
+- No harassment, hate speech, threats, or bullying.
+- No spam or attempts to request or send payment outside the app.
 
-Legal authorities may access user data if required by law.
+### Content Moderation
 
+- We use automated systems and human moderators to filter, review, and remove objectionable content.
+- Users can report inappropriate profiles, messages, or photos using in-app "Report" features.
+- Users can block others to prevent further contact.
 
-6. User Rights
+### Response to Reports
 
-Users can edit or delete their profiles anytime.
+- We review all reports of harmful content within 24 hours, removing content or terminating accounts as necessary.
 
-Users can request data removal by contacting our support team.
+### Account Termination
 
+- Accounts violating our policies may be suspended or terminated without notice.
 
-7. Policy Updates
+### Contact & Complaints
 
-We may update this Privacy Policy periodically. Continued use of our services implies acceptance of the latest policy.
+- To report abuse or request account deletion: email [rishtabandhan01@gmail.com]
+- For more details, see our [full Terms of Use/EULA](TERMS.md).
 
-8. Terms of Use & Community Guidelines
-User Agreement
-By using the Rishtay Bandhan app, you agree to comply with our terms, including our strict zero-tolerance policy for objectionable content or abusive users.
-
-Prohibited Conduct:
-
-No offensive, pornographic, or violent material.
-No harassment, hate speech, threats, or bullying.
-No spam or attempts to solicit payments outside the app.
-Content Moderation:
-
-We use automated systems & human moderators to filter, review, and remove objectionable content.
-Users can report inappropriate profiles, messages, or photos via in-app "Report" buttons.
-Users can block other users to prevent any further contact.
-Response to Reports:
-
-We review and act on all harmful content reports within 24 hours, immediately removing content and/or ejecting offending users if necessary.
-Account Termination:
-
-Accounts that violate these terms may be suspended or terminated without notice.
-Contact & Complaints:
-
-To report abuse or request account deletion: email [rishtabandhan01@gmail.com] 
-For more details, read our [full Terms of Use/EULA](TERMS.md).
-
-9. Updates to Community Policies
-We may update these terms and community guidelines as needed. Continued use of the app indicates acceptance of our latest rules.
+## 9. Updates to Community Policies
+We may update these terms and guidelines as needed. Continued use of the app indicates acceptance of our latest rules.
